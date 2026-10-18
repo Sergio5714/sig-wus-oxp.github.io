@@ -9,7 +9,7 @@
   "reference": "wulpus_pro_repo_sergio5714_2026",
   "github": "https://github.com/Sergio5714/wulpus-pro-max",
   "website": null,
-  "image": "assets/full_system.jpg",
+  "image": "assets/wulpus_pro_max_sigwus.jpg",
   "transducer": {
     "channels": 16,
     "config": "Time-multiplexed array; PZT or CMUT"
@@ -63,7 +63,7 @@
   },
   "image_attribution": {
     "credit": "Sergei Vostrikov",
-    "source_url": "https://github.com/Sergio5714/wulpus-pro-max/blob/main/docs/images/v1_2/full_system.jpg",
+    "source_url": "https://github.com/Sergio5714/wulpus-pro-max/tree/main/docs/images",
     "license": "CC BY-ND 4.0",
     "retrieved": "2026-10"
   }
